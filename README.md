@@ -1,1 +1,1 @@
-# SCT-NOV25-1021-WD-3
+in this project we have created a simple tic tac toe game which is played between two player.by using html,css and js.
